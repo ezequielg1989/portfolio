@@ -1,0 +1,29 @@
+.box{
+    height: 330px;
+    margin: 40px;
+    border: 1px solid blueviolet;
+    border-radius: 20px;
+    background-color: rgb(127, 112, 243);
+    background-color: rgb(59, 48, 146);
+
+}
+.box h5,h6{
+    color: rgb(191, 221, 212);
+}
+.box:hover{
+    background-color:transparent;
+    transition: 0.4s;
+}
+.box i{
+    color: aqua;
+    margin-right: 8px;
+}
+.box i:hover{
+    transform:ease rotate(90);
+    color: rgb(164, 214, 214);
+    transition: 0.4s;
+    
+}
+.text-exp{
+    color: aliceblue;
+}

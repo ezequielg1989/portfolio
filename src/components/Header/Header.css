@@ -1,0 +1,25 @@
+.font-header{
+    color:bisque;
+    font-family: Poppins,sans-serif;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+.font-header-top{
+    color:bisque;
+    margin-top: 16%;
+    font-family: Poppins,sans-serif;
+   
+}
+.font-header-low{
+    color:rgb(138, 138, 138);
+    font-family: Poppins,sans-serif;
+    
+}
+.icons-redes{
+    margin: 20px;
+}
+.icons-redes i{
+    font-size: 30px;
+    color: aliceblue;
+    
+}
