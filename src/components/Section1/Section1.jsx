@@ -8,7 +8,7 @@ export const Section1 = () => {
                 <div className="row col justify-content-center mt-5 align-items-start">
                     <div className=" col ">
                         <div className="container col text-center mt-3">
-                            <img className='img-per col ' src="src/public/img/IMG-20191020-WA0016.png" alt="" />
+                            <img className='img-per col ' src="../public/img/IMG-20191020-WA0016.png" alt="" />
                         </div>
                     </div>
                     <div className=" col-8 descripcion mt-3 ">

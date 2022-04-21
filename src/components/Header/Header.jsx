@@ -11,7 +11,7 @@ export const Header = () => {
       <div className="d-md-flex justify-content-center mt-5">
        
           <button className="btn btn-outline-primary  col col-sm-4 col-md-2 " >
-          <a href="src/assets/CV_Currículum vitae.png" target="_blank">Descargar CV</a>
+          <a href="../assets/CV_Currículum vitae.pdf" target="_blank">Descargar CV</a>
           </button>
         
       </div>
