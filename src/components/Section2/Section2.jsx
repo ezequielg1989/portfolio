@@ -1,8 +1,8 @@
 import React from "react";
-import "./Main.css";
+import "./Section2.css";
 
 
-export const Main = () => {
+export const Section2 = () => {
   return (
     <div>
       <div className="container">

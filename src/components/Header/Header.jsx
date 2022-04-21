@@ -16,7 +16,7 @@ export const Header = () => {
         
       </div>
       <div className="container">
-        <div className="row mt-5">
+        <div className="row justify-content-center mt-5">
           <div className="col col-1 icons-redes">
             <a href="https://github.com/ezequielg1989" target="_blank"><i className="bi bi-github"></i></a>
           </div>

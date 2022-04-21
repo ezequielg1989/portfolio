@@ -1,8 +1,13 @@
-.box-box{
-    border: 1px solid yellow;
-    height: 20em;
+.footer-contain{
+    background-color: rgb(53, 42, 136);
+    height: 200px;
 }
-
-.box-box h3{
-    color: aliceblue;
+.footer-contain h2{
+    margin-top: 70px;
+}
+.description-footer{
+    margin-top: 2rem;
+}
+.footer-name{
+    color: beige;
 }

@@ -13,8 +13,8 @@ export const Section3 = () => {
                         <div className="container">
                             <div className="row d-flex col mt-3 justify-content-center">
                                 <span className='text-exp'>MobileStore</span>
-                                <div className="btn btn-primary  col col-sm-4 me-3 mt-3"><a href="https://github.com/ezequielg1989/mobile">GitHub</a></div>
-                                <div className="btn btn-primary  col col-sm-4 me-3 mt-3"><a href="https://mobiless-store.netlify.app/">Demo</a></div>
+                                <div className="btn btn-primary  col col-sm-4 me-3 mt-3"><a href="https://github.com/ezequielg1989/mobile" target="_blank">GitHub</a></div>
+                                <div className="btn btn-primary  col col-sm-4 me-3 mt-3"><a href="https://mobiless-store.netlify.app/" target="_blank">Demo</a></div>
                                 
                             </div>
                         </div>
@@ -28,8 +28,8 @@ export const Section3 = () => {
                         <div className="container">
                             <div className="row d-flex col mt-3 justify-content-center">
                                 <span className='text-exp'>.DANCCA</span>
-                                <div className="btn btn-primary  col col-sm-4 me-3 mt-3"><a href="https://github.com/ezequielg1989/tienda-ecommerce">GitHub</a></div>
-                                <div className="btn btn-primary  col col-sm-4 me-3 mt-3"><a href="https://dancca.netlify.app/">Demo</a></div>
+                                <div className="btn btn-primary  col col-sm-4 me-3 mt-3"><a href="https://github.com/ezequielg1989/tienda-ecommerce" target="_blank">GitHub</a></div>
+                                <div className="btn btn-primary  col col-sm-4 me-3 mt-3"><a href="https://dancca.netlify.app/" target="_blank">Demo</a></div>
                             </div>
                         </div>
                     </div>
@@ -38,12 +38,12 @@ export const Section3 = () => {
             <div className="col-10 col-lg-5 col-md-4 col-sm-10 box">
                 <div className="container col text-center">
                     <div className="row d-flex ">
-                        <img className='img-port mt-3' src="https://firebasestorage.googleapis.com/v0/b/mobile-react-app.appspot.com/o/Captura%20de%20pantalla%20de%202022-04-20%2018-04-20.png?alt=media&token=280e0c8a-3092-4568-b4b9-b3188ff9260d" alt="" />
+                        <img className='img-port mt-3' src="https://firebasestorage.googleapis.com/v0/b/mobile-react-app.appspot.com/o/Captura%20de%20pantalla%20de%202022-04-21%2020-19-28.png?alt=media&token=1003a493-10c1-4625-9c56-d3d745de9174" alt="" />
                         <div className="container">
                             <div className="row d-flex col mt-3 justify-content-center">
                                 <span className='text-exp'>MobileStore</span>
-                                <div className="btn btn-primary  col col-sm-4 me-3 mt-3"><a href="https://github.com/ezequielg1989/mobile">GitHub</a></div>
-                                <div className="btn btn-primary  col col-sm-4 me-3 mt-3"><a href="https://mobiless-store.netlify.app/">Demo</a></div>
+                                <div className="btn btn-primary  col col-sm-4 me-3 mt-3"><a href="https://github.com/ezequielg1989/mobile" target="_blank">GitHub</a></div>
+                                <div className="btn btn-primary  col col-sm-4 me-3 mt-3"><a href="https://nccinema.netlify.app/" target="_blank">Demo</a></div>
                                 
                             </div>
                         </div>
