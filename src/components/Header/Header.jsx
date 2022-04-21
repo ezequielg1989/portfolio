@@ -18,7 +18,7 @@ export const Header = () => {
       <div className="container">
         <div className="row mt-5">
           <div className="col col-1 icons-redes">
-            <a href="//github.com/ezequielg1989" target="_blank"><i className="bi bi-github"></i></a>
+            <a href="https://github.com/ezequielg1989" target="_blank"><i className="bi bi-github"></i></a>
           </div>
           <div className="col col-1 icons-redes">
               <a href="https://www.linkedin.com/in/ezequiel-ganzero-191a83197/" target="_blank"><i className="bi bi-linkedin" ></i></a>
