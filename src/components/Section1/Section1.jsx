@@ -8,7 +8,7 @@ export const Section1 = () => {
                 <div className="row col justify-content-center mt-5 align-items-start">
                     <div className=" col ">
                         <div className="container col text-center mt-3">
-                            <img className='img-per col ' src="public/IMG-20191020-WA0016.png" alt="" />
+                            <img className='img-per col ' src="https://firebasestorage.googleapis.com/v0/b/mobile-react-app.appspot.com/o/IMG-20191020-WA0016.jpg?alt=media&token=4b65e10c-ee43-4222-b4e7-e8654d45f3ce" alt="" />
                         </div>
                     </div>
                     <div className=" col-8 descripcion mt-3 ">

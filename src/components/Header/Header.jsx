@@ -11,7 +11,7 @@ export const Header = () => {
       <div className="d-md-flex justify-content-center mt-5">
        
           <button className="btn btn-outline-primary  col col-sm-4 col-md-2 " >
-          <a href="../assets/CV_Currículum vitae.pdf" target="_blank">Descargar CV</a>
+          <a href="https://firebasestorage.googleapis.com/v0/b/mobile-react-app.appspot.com/o/CV_Curr%C3%ADculum%20vitae.png?alt=media&token=1821fcc1-1c39-45fa-b195-0387cb64b429" target="_blank">Descargar CV</a>
           </button>
         
       </div>
