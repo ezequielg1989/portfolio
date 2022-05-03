@@ -41,7 +41,7 @@ export const Section3 = () => {
                         <div className="container">
                             <div className="row d-flex col justify-content-center">
                                 <span className='text-exp mt-4 mb-4'>NCinema APP</span>
-                                <div className="btn btn-primary  col col-sm-4 me-3 mt-2 p-1 "><a href="https://github.com/ezequielg1989/mobile" target="_blank">GitHub</a></div>
+                                <div className="btn btn-primary  col col-sm-4 me-3 mt-2 p-1 "><a href="https://github.com/ezequielg1989/c4-g17-m" target="_blank">GitHub</a></div>
                                 <div className="btn btn-primary  col col-sm-4 me-3 mt-2 p-1 "><a href="https://nccinema.netlify.app/" target="_blank">Demo</a></div>
                                 
                             </div>
