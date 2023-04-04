@@ -8,6 +8,7 @@ export const Header = () => {
       {/* <h4 className="font-header-top">Hola mi nombre es</h4> */}
       <h1 className="font-header mt-5">Ezequiel Ganzero</h1>
       <h4 className="font-header-low mt-3">Full stack developer</h4>
+      <h4 className="font-header-low mt-3">QA Manual / Automation</h4>
       <div className="d-md-flex justify-content-center mt-5">
        
           <button className="btn btn-outline-primary  col col-sm-4 col-md-2 " >
